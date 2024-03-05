@@ -1,7 +1,7 @@
 # BankingApp
 
-The most important services thet any bank provides to the clients is the ability to deposite and withdraw money,
-In this demoApp there is an implementation of these two functions using :
+The most important services that any bank provides to the clients is the ability to deposit and withdraw money,
+In this demo App there is an implementation of these two functions using :
 - Java 17
 - Spring Web
 - Spring Data JPA
